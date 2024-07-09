@@ -1,0 +1,14 @@
+{
+  "AdInfo": {
+    "AdServer": {
+        "Status_Ad": false,
+        "Banner_Id": "ca-app-pub-3940256099942544/6300978111",
+        "Interstitial_Id": "ca-app-pub-3940256099942544/1033173712",
+        "Native_Id": "ca-app-pub-3940256099942544/2247696110",
+        "Open_Id":"ca-app-pub-3940256099942544/9257395921",
+        "Reward_Id":""
+     
+      }
+
+  }
+}
